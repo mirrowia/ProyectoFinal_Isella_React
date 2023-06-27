@@ -1,0 +1,17 @@
+#ItemDetailContainer {
+  height: 95vh;
+}
+
+.item-detail-info {
+  position: relative;
+  max-width: 70vw;
+}
+
+.item-detail-info-buy {
+  position: absolute;
+  bottom: 0;
+}
+
+.item-detail-info-price {
+  font-size: 1.5rem;
+}

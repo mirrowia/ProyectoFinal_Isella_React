@@ -1,0 +1,37 @@
+.product-card {
+  width: 290px;
+  margin: 2rem;
+  padding-bottom: 0.5rem;
+  background-color: #f8f9fa;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.product-card img {
+  width: inherit;
+}
+
+.product-card a {
+  width: inherit;
+}
+
+.product-card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.product-card p {
+  text-align: center;
+  margin: 0.5rem 0;
+  font-size: 1.4rem;
+  font-family: "Kdam Thmor Pro", sans-serif;
+}
+
+.out-of-stock {
+  filter: grayscale(90%);
+}
+
+.card-dissabled{
+  background-color: rgb(210, 210, 210);
+}

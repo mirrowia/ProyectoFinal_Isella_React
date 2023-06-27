@@ -1,0 +1,20 @@
+#cart-div{
+    width: 4rem;
+}
+
+#cart-div a{
+    cursor: pointer;
+}
+
+.notification-pop{
+    position: absolute;
+    top: 0;
+    right:0;
+    border-radius: 50%;
+    width: 1.6rem;
+    text-align: center;
+}
+
+.notification-pop:hover{
+    font-weight:  500;
+}
