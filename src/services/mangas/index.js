@@ -1,2 +1,6 @@
-import { getFiresore } from "firebase/firestore";
-const getMangas = () => {};
+export const getMangas = async () => {
+  let response = await fetch("../../sources/novedades.json");
+  const data = await response.json();
+
+  return data;
+};
