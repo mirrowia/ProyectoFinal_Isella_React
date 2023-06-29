@@ -1,5 +1,5 @@
+import "./index.css";
 import { useState } from "react";
-import "./CartWidget.css";
 
 function CartWidget() {
   const [cartItems, setCartItems] = useState(0);

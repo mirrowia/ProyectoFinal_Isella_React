@@ -1,10 +1,38 @@
-import { collection, addDoc, getDocs, getFirestore } from "firebase/firestore";
+import {
+  collection,
+  doc,
+  addDoc,
+  getDoc,
+  getDocs,
+  getFirestore,
+  query,
+  where,
+} from "firebase/firestore";
 
-const getMangas = async () => {
+const getMangas = async (category) => {
   const db = getFirestore();
-  const querySnapshot = await getDocs(collection(db, "mangas"));
+  const mangasRef = collection(db, "mangas");
 
-  return querySnapshot.docs.map((doc) => doc.data());
+  if (category) {
+    category = String(category).replace("-", " ");
+    const q = query(mangasRef, where("category", "==", category));
+    const querySnapshot = await getDocs(q);
+    return querySnapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
+  } else {
+    const querySnapshot = await getDocs(collection(db, "mangas"));
+    return querySnapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
+  }
+};
+
+const getManga = async (id) => {
+  const db = getFirestore();
+  const docRef = doc(db, "mangas", id);
+  const docSnap = await getDoc(docRef);
+  if (docSnap.exists()) {
+    return { id: docSnap.id, ...docSnap.data() };
+  } else {
+    return {};
+  }
 };
 
 const importMangas = () => {
@@ -29,4 +57,4 @@ const importMangas = () => {
     });
 };
 
-export { getMangas, importMangas };
+export { getManga, getMangas, importMangas };

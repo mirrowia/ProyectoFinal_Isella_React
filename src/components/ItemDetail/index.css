@@ -29,9 +29,7 @@
 }
 
 .out-of-stock {
-  filter: grayscale(90%);
+  filter: grayscale(65%);
+  background-color: rgb(210, 210, 210);;
 }
 
-.card-dissabled{
-  background-color: rgb(210, 210, 210);
-}

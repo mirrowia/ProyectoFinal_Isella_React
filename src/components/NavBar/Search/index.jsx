@@ -1,4 +1,4 @@
-import "./Search.css";
+import "./index.css";
 
 function Search() {
   return (

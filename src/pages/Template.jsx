@@ -1,4 +1,4 @@
-import NavBar from "./components/nav/NavBar";
+import NavBar from "../components/NavBar";
 
 function Template({ children }) {
   return (

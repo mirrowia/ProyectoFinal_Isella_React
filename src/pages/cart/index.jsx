@@ -1,5 +1,4 @@
-import Template from "../../Template";
-
+import Template from "../Template";
 function Cart() {
   return (
     <Template>

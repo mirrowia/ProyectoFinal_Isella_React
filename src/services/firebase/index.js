@@ -21,5 +21,5 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 
-export { getMangas, importMangas } from "./mangas";
+export { getManga, getMangas, importMangas } from "./mangas";
 export default getFirestore(app);
