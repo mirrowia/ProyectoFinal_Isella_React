@@ -1,8 +1,11 @@
+import { CartContext } from "../../../context";
 import "./index.css";
-import { useState } from "react";
+import { useContext, useState } from "react";
 
 function CartWidget() {
-  const [cartItems, setCartItems] = useState(0);
+  const cartItems = useContext(CartContext);
+
+  console.log(cartItems);
 
   return (
     <>
