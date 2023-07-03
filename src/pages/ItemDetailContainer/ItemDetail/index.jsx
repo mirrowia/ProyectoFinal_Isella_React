@@ -1,5 +1,5 @@
 import "./index.css";
-import ItemCount from "../../../components/NavBar/CartWidget/Item/ItemCount";
+import ItemCount from "../../../components/ItemCount";
 import { getManga } from "../../../services/firebase";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";

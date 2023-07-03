@@ -1,0 +1,24 @@
+.cart-product {
+  display: flex;
+  position: relative;
+  background-color: red;
+}
+
+.product-card-body-title {
+  font-size: 1.5rem;
+}
+
+.product-card-body-price {
+  font-size: 2rem;
+}
+.product-card-quantity {
+  position: absolute;
+  right: 0;
+  padding-right: 1rem;
+  font-size: 2rem;
+}
+
+.cart-product img {
+  width: 100px;
+  height: 150px;
+}
