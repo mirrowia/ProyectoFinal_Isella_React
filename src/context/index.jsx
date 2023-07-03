@@ -1,17 +1,26 @@
-import { createContext, useState } from "react";
+import { createContext, useEffect, useState } from "react";
 
 const CartContext = createContext();
 
 const CartProvider = ({ children }) => {
   const [cartItems, setCartItems] = useState([]);
 
-  const onAdd = (product) => {
-    const isInCart = cartItems.findIndex((item) => item.id === product.id);
-    if (isInCart >= 0) {
+  const onAdd = (product, order) => {
+    const cartIndex = cartItems.findIndex((item) => item.id === product.id);
+    if (cartIndex >= 0) {
+      const newCart = structuredClone(cartItems);
+      const newProduct = cartItems[cartIndex];
+
+      newProduct.quantity += order;
+      newCart[cartIndex] = newProduct;
+      setCartItems(newCart);
     } else {
-      setCartItems([...cartItems, product]);
+      const newProduct = structuredClone(product);
+      newProduct.quantity = parseInt(order);
+      setCartItems([...cartItems, newProduct]);
     }
   };
+
   return (
     <CartContext.Provider value={{ cartItems, setCartItems, onAdd }}>
       {children}

@@ -4,11 +4,19 @@ import { useContext, useState } from "react";
 import { useEffect } from "react";
 
 function CartWidget() {
-  const { cartItems, setCartItems } = useContext(CartContext);
-  const [quantity, setQuantity] = useState(cartItems.length);
+  const { cartItems } = useContext(CartContext);
+  const [quantity, setQuantity] = useState(0);
+
+  const countItems = (cartItems) => {
+    let totalItems = 0;
+    cartItems.map((item) => {
+      totalItems += item.quantity;
+    });
+    setQuantity(totalItems);
+  };
 
   useEffect(() => {
-    setQuantity(cartItems.length);
+    countItems(cartItems);
   }, [cartItems]);
 
   return (

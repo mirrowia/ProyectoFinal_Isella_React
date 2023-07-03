@@ -6,18 +6,18 @@ import Remove from "./Remove";
 import Input from "./Input";
 import Cart from "./Cart";
 
-function ItemCount({ stock, onAdd }) {
+function ItemCount({ product, onAdd }) {
   const [order, setOrder] = useState(0);
   const { cartItems, setCartItems } = useContext(CartContext);
 
   const add = (e) => {
-    if (stock > order) {
+    if (product.stock > order) {
       setOrder(order + 1);
     } else {
     }
   };
   const remove = (e) => {
-    if (stock >= order && order > 0) {
+    if (product.stock >= order && order > 0) {
       setOrder(order - 1);
     } else {
       if (!e.target.classList.contains("setGreyed")) {
@@ -31,11 +31,11 @@ function ItemCount({ stock, onAdd }) {
   return (
     <div className="item-count-container" onClick={(e) => e.preventDefault()}>
       <div className="item-input-div">
-        <Remove remove={remove} order={order} stock={stock} />
+        <Remove remove={remove} order={order} stock={product.stock} />
         <Input order={order} />
-        <Add add={add} order={order} stock={stock} />
+        <Add add={add} order={order} stock={product.stock} />
       </div>
-      <Cart onAdd={onAdd} order={order} />
+      <Cart onAdd={() => onAdd(product, order)} order={order} />
     </div>
   );
 }
