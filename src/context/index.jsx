@@ -5,6 +5,14 @@ const CartContext = createContext();
 const CartProvider = ({ children }) => {
   const [cartItems, setCartItems] = useState([]);
 
+  useEffect(() => {
+    if (cartItems.length != 0) {
+      localStorage.setItem("cart", JSON.stringify(cartItems));
+      const storage = JSON.parse(localStorage.getItem("cart"));
+      console.log(storage);
+    }
+  }, [cartItems]);
+
   const onAdd = (product, order) => {
     const cartIndex = cartItems.findIndex((item) => item.id === product.id);
     if (cartIndex >= 0) {
