@@ -17,7 +17,7 @@ function ItemListContainer() {
 
   return (
     <Template>
-      <div id="ItemListContainer" className="container-fluid bg-warning-subtle">
+      <div id="ItemListContainer" className="container-fluid">
         <ItemList mangas={list} />
       </div>
     </Template>

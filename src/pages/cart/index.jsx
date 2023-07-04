@@ -1,3 +1,4 @@
+import "./index.css";
 import { useContext } from "react";
 import Template from "../Template";
 import { CartContext } from "../../context";

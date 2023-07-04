@@ -6,13 +6,23 @@ import { CartContext } from "../../context";
 
 const ItemDetail = (product) => {
   const [stockClass, setStockClass] = useState("");
-  const { onAdd } = useContext(CartContext);
+  const { onAdd, cartItems } = useContext(CartContext);
+  const [stock, setStock] = useState(product.stock);
 
   useEffect(() => {
-    if (product.stock == 0) {
+    cartItems.map((item) => {
+      const cartIndex = cartItems.findIndex((item) => item.id === product.id);
+      if (cartIndex >= 0) {
+        setStock(product.stock - item.quantity);
+      }
+    });
+  }, [cartItems]);
+
+  useEffect(() => {
+    if (stock == 0) {
       setStockClass("out-of-stock");
     }
-  }, [product.stock]);
+  }, [stock]);
 
   return (
     <div className={"product-card " + stockClass}>
@@ -24,7 +34,7 @@ const ItemDetail = (product) => {
           {product.title} #{product.volume}
         </p>
         <p>${product.price}</p>
-        <ItemCount product={product} onAdd={onAdd} initial="0" />
+        <ItemCount stock={stock} product={product} onAdd={onAdd} initial="0" />
       </div>
     </div>
   );

@@ -8,8 +8,9 @@ const CartProvider = ({ children }) => {
   useEffect(() => {
     if (cartItems.length != 0) {
       localStorage.setItem("cart", JSON.stringify(cartItems));
-      const storage = JSON.parse(localStorage.getItem("cart"));
-      console.log(storage);
+    } else {
+      if (localStorage.getItem("cart"))
+        setCartItems(JSON.parse(localStorage.getItem("cart")));
     }
   }, [cartItems]);
 

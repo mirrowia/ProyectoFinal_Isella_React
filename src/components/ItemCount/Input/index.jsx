@@ -1,7 +1,15 @@
-function Input({ order, stock }) {
+import { useEffect, useState } from "react";
+
+function Input({ order, setOrder, stock }) {
   const handleChange = (e) => {
-    //setOrder(e.target.value);
+    setOrder(e.target.value);
   };
+
+  useEffect(() => {
+    if (order > stock) {
+      setOrder(stock);
+    }
+  }, [stock]);
 
   return (
     <input

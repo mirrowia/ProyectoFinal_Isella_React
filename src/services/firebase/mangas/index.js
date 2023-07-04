@@ -6,6 +6,7 @@ import {
   getDocs,
   getFirestore,
   query,
+  orderBy,
   where,
 } from "firebase/firestore";
 
@@ -15,11 +16,18 @@ const getMangas = async (category) => {
 
   if (category) {
     category = String(category).replace("-", " ");
-    const q = query(mangasRef, where("category", "==", category));
+    const q = query(
+      mangasRef,
+      where("category", "==", category),
+      orderBy("category"),
+      orderBy("title"),
+      orderBy("volume")
+    );
     const querySnapshot = await getDocs(q);
     return querySnapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
   } else {
-    const querySnapshot = await getDocs(collection(db, "mangas"));
+    const q = query(mangasRef, orderBy("title"), orderBy("volume"));
+    const querySnapshot = await getDocs(q);
     return querySnapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
   }
 };
