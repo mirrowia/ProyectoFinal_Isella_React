@@ -7,7 +7,11 @@ const CartItem = ({ item }) => {
   const { cartItems, setCartItems } = useContext(CartContext);
 
   const removeItem = (itemId) => {
-    console.log(cartItems);
+    const filteredCart = cartItems.filter((item) => item.id !== itemId);
+    if (filteredCart.length === 0) {
+      localStorage.setItem("cart", []);
+    }
+    setCartItems(filteredCart);
   };
 
   return (
@@ -15,18 +19,18 @@ const CartItem = ({ item }) => {
       <Link to={"/item/" + item.id}>
         <img src={item.cover} alt="cover" />
       </Link>
-      <div className="product-card-body">
+      <div className="product-cart-body">
         <div>
-          <p className="product-card-title">
+          <p className="product-cart-title">
             {item.title} #{item.volume}
           </p>
         </div>
-        <div className="product-card-quantity">
+        <div className="product-cart-quantity">
           <p>{item.quantity}</p>
           <i className="bi bi-trash-fill" onClick={() => removeItem(item.id)} />
         </div>
-        <div className="product-card-price">
-          <p className="product-card-body-price">
+        <div className="product-cart-price">
+          <p className="product-cart-body-price">
             ${item.price * item.quantity}
           </p>
         </div>

@@ -15,18 +15,18 @@
   height: 150px;
 }
 
-.product-card-body {
+.product-cart-body {
 display: grid;
 grid-template-columns: repeat(3, 1fr);
   width: 100%;
 }
 
-.product-card-title {
+.product-cart-title {
   display: flex;
   justify-content: center;
   font-size: 1.7rem;
 }
-.product-card-quantity {
+.product-cart-quantity {
   justify-content: end;
   display: flex;
   align-items: center;
@@ -35,16 +35,16 @@ grid-template-columns: repeat(3, 1fr);
   font-size: 1.7rem;
 }
 
-.product-card-quantity p {
+.product-cart-quantity p {
   margin: 0;
   padding-right: 1rem;
 }
 
-.product-card-quantity i {
+.product-cart-quantity i {
   color: gray;
 }
 
-.product-card-body-price {
+.product-cart-body-price {
   display: flex;
   justify-content: end;
   padding-right: 2rem;
