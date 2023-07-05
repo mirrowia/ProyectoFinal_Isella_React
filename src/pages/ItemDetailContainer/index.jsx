@@ -2,7 +2,7 @@ import "./index.css";
 import Template from "../Template";
 import ItemDetail from "./ItemDetail";
 
-function ItemDetailContainer(props) {
+function ItemDetailContainer() {
   return (
     <Template>
       <ItemDetail />

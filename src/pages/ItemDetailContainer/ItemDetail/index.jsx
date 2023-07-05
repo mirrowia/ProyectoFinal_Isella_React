@@ -1,11 +1,14 @@
 import "./index.css";
 import ItemCount from "../../../components/ItemCount";
 import { getManga } from "../../../services/firebase";
-import { useEffect, useState } from "react";
+import { useEffect, useState, useContext } from "react";
+import { CartContext } from "../../../context";
 import { useParams } from "react-router-dom";
 
-function ItemDetail(props) {
+function ItemDetail() {
   const [manga, setManga] = useState();
+  const { onAdd, cartItems } = useContext(CartContext);
+  const [stock, setStock] = useState(0);
   const params = useParams();
 
   useEffect(() => {
@@ -27,8 +30,15 @@ function ItemDetail(props) {
           <div className="item-detail-info-buy">
             <p className="item-detail-info-price">Valor: ${manga.price}</p>
             <div className="d-flex">
-              <ItemCount stock={manga.stock} initial="0" />
-              <p className="stock">Stock: {manga.stock}</p>
+              <ItemCount
+                stock={stock}
+                product={manga}
+                onAdd={() => {
+                  onAdd();
+                }}
+                initial="0"
+              />
+              <p className="stock">Stock: {stock}</p>
             </div>
           </div>
         </div>
