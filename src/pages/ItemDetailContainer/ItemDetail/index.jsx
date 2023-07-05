@@ -15,6 +15,18 @@ function ItemDetail() {
     getManga(params.id).then((data) => setManga(data));
   }, []);
 
+  useEffect(() => {
+    if (manga) {
+      setStock(manga.stock);
+      cartItems.map((item) => {
+        const cartIndex = cartItems.findIndex((item) => item.id === manga.id);
+        if (cartIndex >= 0) {
+          setStock(manga.stock - item.quantity);
+        }
+      });
+    }
+  }, [manga, cartItems]);
+
   if (!manga) return null;
 
   return (
@@ -33,9 +45,7 @@ function ItemDetail() {
               <ItemCount
                 stock={stock}
                 product={manga}
-                onAdd={() => {
-                  onAdd();
-                }}
+                onAdd={onAdd}
                 initial="0"
               />
               <p className="stock">Stock: {stock}</p>
