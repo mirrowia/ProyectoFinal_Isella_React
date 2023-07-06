@@ -5,15 +5,6 @@ const CartContext = createContext();
 const CartProvider = ({ children }) => {
   const [cartItems, setCartItems] = useState([]);
 
-  useEffect(() => {
-    if (cartItems.length != 0) {
-      localStorage.setItem("cart", JSON.stringify(cartItems));
-    } else {
-      if (localStorage.getItem("cart"))
-        setCartItems(JSON.parse(localStorage.getItem("cart")));
-    }
-  }, [cartItems]);
-
   const onAdd = (product, order) => {
     const cartIndex = cartItems.findIndex((item) => item.id === product.id);
     if (cartIndex >= 0) {
@@ -29,6 +20,15 @@ const CartProvider = ({ children }) => {
       setCartItems([...cartItems, newProduct]);
     }
   };
+
+  useEffect(() => {
+    if (cartItems.length != 0) {
+      localStorage.setItem("cart", JSON.stringify(cartItems));
+    } else {
+      if (localStorage.getItem("cart"))
+        setCartItems(JSON.parse(localStorage.getItem("cart")));
+    }
+  }, [cartItems]);
 
   return (
     <CartContext.Provider value={{ cartItems, setCartItems, onAdd }}>

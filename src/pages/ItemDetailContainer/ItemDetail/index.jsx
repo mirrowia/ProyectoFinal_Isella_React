@@ -18,12 +18,10 @@ function ItemDetail() {
   useEffect(() => {
     if (manga) {
       setStock(manga.stock);
-      cartItems.map((item) => {
-        const cartIndex = cartItems.findIndex((item) => item.id === manga.id);
-        if (cartIndex >= 0) {
-          setStock(manga.stock - item.quantity);
-        }
-      });
+      const cartIndex = cartItems.findIndex((item) => item.id === manga.id);
+      if (cartIndex >= 0) {
+        setStock(manga.stock - cartItems[cartIndex].quantity);
+      }
     }
   }, [manga, cartItems]);
 

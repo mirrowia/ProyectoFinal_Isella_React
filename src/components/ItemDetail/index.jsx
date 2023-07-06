@@ -6,16 +6,14 @@ import { CartContext } from "../../context";
 
 const ItemDetail = (product) => {
   const [stockClass, setStockClass] = useState("");
-  const { onAdd, cartItems } = useContext(CartContext);
+  const { cartItems, setCartItems, onAdd } = useContext(CartContext);
   const [stock, setStock] = useState(product.stock);
 
   useEffect(() => {
-    cartItems.map((item) => {
-      const cartIndex = cartItems.findIndex((item) => item.id === product.id);
-      if (cartIndex >= 0) {
-        setStock(product.stock - item.quantity);
-      }
-    });
+    const cartIndex = cartItems.findIndex((item) => item.id === product.id);
+    if (cartIndex >= 0) {
+      setStock(product.stock - cartItems[cartIndex].quantity);
+    }
   }, [cartItems]);
 
   useEffect(() => {
