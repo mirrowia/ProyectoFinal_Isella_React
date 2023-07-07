@@ -1,17 +1,24 @@
 import { useEffect, useState } from "react";
 
-const CartTotal = (props) => {
+const CartTotal = ({ cartItems }) => {
   const [total, setTotal] = useState(0);
-  useEffect(() => {
-    setTotal(0);
-    props.cartItems.map((item) => {
-      setTotal(total + item.quantity * item.price);
-      console.log(item.quantity * item.price);
-      console.log(total);
-    });
-  }, [props]);
 
-  return <></>;
+  useEffect(() => {
+    let sum = 0;
+    cartItems.forEach((item) => {
+      sum += item.quantity * item.price;
+    });
+    setTotal(sum);
+  }, [cartItems]);
+
+  return (
+    <>
+      <div className="cart-total">
+        <p className="cart-total-text">TOTAL </p>
+        <p className="cart-total-amount">${total}</p>
+      </div>
+    </>
+  );
 };
 
 export { CartTotal };
