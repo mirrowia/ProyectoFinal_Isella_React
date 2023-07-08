@@ -8,6 +8,7 @@ import {
   query,
   orderBy,
   where,
+  updateDoc,
 } from "firebase/firestore";
 
 const getMangas = async (category) => {
@@ -65,4 +66,12 @@ const importMangas = () => {
     });
 };
 
-export { getManga, getMangas, importMangas };
+const updateStock = async (id, stock) => {
+  const db = getFirestore();
+  const docRef = doc(db, "mangas", id);
+  await updateDoc(docRef, {
+    stock: stock,
+  });
+};
+
+export { getManga, getMangas, importMangas, updateStock };

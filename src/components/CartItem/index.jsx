@@ -3,14 +3,18 @@ import { useContext } from "react";
 import { CartContext } from "../../context";
 
 const CartItem = ({ item }) => {
-  const { cartItems, setCartItems } = useContext(CartContext);
+  const { cart, setCart } = useContext(CartContext);
 
   const removeItem = (itemId) => {
-    const filteredCart = cartItems.filter((item) => item.id !== itemId);
+    const filteredCart = cart.items.filter((item) => item.id !== itemId);
     if (filteredCart.length === 0) {
+      const newCart = structuredClone(cart);
+      newCart.items = [];
       localStorage.setItem("cart", []);
     }
-    setCartItems(filteredCart);
+    const newCart = structuredClone(cart);
+    newCart.items = filteredCart;
+    setCart(newCart);
   };
 
   return (

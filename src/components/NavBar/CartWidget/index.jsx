@@ -4,7 +4,7 @@ import { useContext, useState } from "react";
 import { useEffect } from "react";
 
 function CartWidget() {
-  const { cartItems } = useContext(CartContext);
+  const { cart, setCart } = useContext(CartContext);
   const [quantity, setQuantity] = useState(0);
 
   const countItems = (cartItems) => {
@@ -16,8 +16,10 @@ function CartWidget() {
   };
 
   useEffect(() => {
-    countItems(cartItems);
-  }, [cartItems]);
+    if (cart.items != undefined) {
+      countItems(cart.items);
+    }
+  }, [cart.items]);
 
   return (
     <>

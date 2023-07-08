@@ -1,0 +1,26 @@
+.input-group-container {
+  margin-top: 5vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-container {
+  width: 30vw;
+}
+
+.checkout-products .button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.checkout-products .button p {
+  margin: 1rem;
+  font-size: 1.5rem;
+  padding: 1rem;
+  background-color: rgba(20, 170, 150, 0.3);
+  cursor: pointer;
+  border: 1px solid rgb(201, 201, 201, 0.4);
+}

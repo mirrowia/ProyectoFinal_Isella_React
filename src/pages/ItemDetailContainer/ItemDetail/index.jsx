@@ -7,7 +7,7 @@ import { useParams } from "react-router-dom";
 
 function ItemDetail() {
   const [manga, setManga] = useState();
-  const { onAdd, cartItems } = useContext(CartContext);
+  const { onAdd, cart } = useContext(CartContext);
   const [stock, setStock] = useState(0);
   const params = useParams();
 
@@ -18,12 +18,12 @@ function ItemDetail() {
   useEffect(() => {
     if (manga) {
       setStock(manga.stock);
-      const cartIndex = cartItems.findIndex((item) => item.id === manga.id);
+      const cartIndex = cart.items.findIndex((item) => item.id === manga.id);
       if (cartIndex >= 0) {
-        setStock(manga.stock - cartItems[cartIndex].quantity);
+        setStock(manga.stock - cart.items[cartIndex].quantity);
       }
     }
-  }, [manga, cartItems]);
+  }, [manga, cart.items]);
 
   if (!manga) return null;
 

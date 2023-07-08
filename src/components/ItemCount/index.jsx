@@ -8,7 +8,7 @@ import Cart from "./Cart";
 
 function ItemCount({ product, onAdd, stock }) {
   const [order, setOrder] = useState(0);
-  const { cartItems, setCartItems } = useContext(CartContext);
+  const { cart, setCart } = useContext(CartContext);
 
   const add = (e) => {
     if (stock > order) {
@@ -26,7 +26,7 @@ function ItemCount({ product, onAdd, stock }) {
     }
   };
 
-  useEffect(() => {}, [cartItems]);
+  useEffect(() => {}, [cart.items]);
 
   return (
     <div className="item-count-container" onClick={(e) => e.preventDefault()}>

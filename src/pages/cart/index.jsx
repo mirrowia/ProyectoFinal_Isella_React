@@ -4,19 +4,37 @@ import Template from "../Template";
 import { CartContext } from "../../context";
 import { ItemList } from "../../components/CartList";
 import { CartTotal } from "../../components/CartTotal";
+import { Link } from "react-router-dom";
 function Cart() {
-  const { cartItems, setCartItems } = useContext(CartContext);
+  const { cart } = useContext(CartContext);
 
-  if (cartItems.length == 0) return <Template>VOLVER AL CATÁLOGO</Template>;
+  if (cart.items.length === 0)
+    return (
+      <Template>
+        <div className="container-fluid cart-empty">
+          <div className="cart-empty-box">
+            <p>
+              Vaya... No has seleccionado ningun producto del catalogo para
+              agregar al carro.
+            </p>
+            <Link to="/">
+              <p className="text-link">&gt;VOLVER AL CATÁLOGO&lt;</p>
+            </Link>
+          </div>
+        </div>
+      </Template>
+    );
 
   return (
     <Template>
       <div id="CartContainer" className="container-fluid">
-        <ItemList cartItems={cartItems} />
-        <CartTotal cartItems={cartItems} />
+        <ItemList cartItems={cart.items} />
+        <CartTotal cartItems={cart.items} />
       </div>
       <div className="container-fluid cart-items-confirm">
-        <button>CONTINUAR</button>
+        <Link to="/checkout">
+          <button>CONTINUAR</button>
+        </Link>
       </div>
     </Template>
   );
