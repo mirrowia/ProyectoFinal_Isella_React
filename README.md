@@ -16,5 +16,22 @@ La tienda cuenta con un control de stock que se actualiza a medida que el usuari
 
 Los productos se pueden filtrar por categoría no así por nombre ya que el buscador es una incorporación a futuro, mismo como el botón de usuario.
 
-##A TENER EN CUENTA
+### Categorias
+
+![Categories](https://github.com/mirrowia/ProyectoFinal_Isella_React/blob/main/preview/Categories.gif)
+
+### Stock
+
+![Stock](https://github.com/mirrowia/ProyectoFinal_Isella_React/blob/main/preview/Stock.gif)
+
+### Carro
+
+![Cart](https://github.com/mirrowia/ProyectoFinal_Isella_React/blob/main/preview/Cart.gif)
+
+### Checkout
+
+![Checkout](https://github.com/mirrowia/ProyectoFinal_Isella_React/blob/main/preview/Checkout.gif)
+
+## A TENER EN CUENTA
+
 El único problema que **pude detectar** es al momento de refrescar la página del carrito no trae los items del localstore. Por lo que se debe acceder desde el ícono del carrito.
