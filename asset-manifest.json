@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/preentrega1_isella/static/css/main.ed1ac00d.css",
+    "main.js": "/preentrega1_isella/static/js/main.88cc94d0.js",
+    "static/js/787.4667e0ef.chunk.js": "/preentrega1_isella/static/js/787.4667e0ef.chunk.js",
+    "index.html": "/preentrega1_isella/index.html",
+    "main.ed1ac00d.css.map": "/preentrega1_isella/static/css/main.ed1ac00d.css.map",
+    "main.88cc94d0.js.map": "/preentrega1_isella/static/js/main.88cc94d0.js.map",
+    "787.4667e0ef.chunk.js.map": "/preentrega1_isella/static/js/787.4667e0ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed1ac00d.css",
+    "static/js/main.88cc94d0.js"
+  ]
+}
