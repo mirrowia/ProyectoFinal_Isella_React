@@ -1,5 +1,5 @@
 {
-  "name": "React Project",
+  "name": "react_ecommerce",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,7 +42,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://usuario.github.io/react_commerce",
+  "homepage": "https://mirrowia.github.io/react_commerce",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
