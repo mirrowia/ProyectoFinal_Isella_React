@@ -42,7 +42,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://mirrowia.github.io/react_commerce",
+  "homepage": "https://mirrowia.github.io/react_ecommerce",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
