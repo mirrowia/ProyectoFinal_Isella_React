@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect} from "react";
 
 function Input({ order, setOrder, stock }) {
   const handleChange = (e) => {
@@ -9,7 +9,7 @@ function Input({ order, setOrder, stock }) {
     if (order > stock) {
       setOrder(stock);
     }
-  }, [stock]);
+  }, [stock, order, setOrder]);
 
   return (
     <input

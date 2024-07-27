@@ -13,7 +13,7 @@ function ItemDetail() {
 
   useEffect(() => {
     getManga(params.id).then((data) => setManga(data));
-  }, []);
+  }, [params.id]);
 
   useEffect(() => {
     if (manga) {

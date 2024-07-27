@@ -6,7 +6,7 @@ import { CartContext } from "../../context";
 
 const ItemDetail = (product) => {
   const [stockClass, setStockClass] = useState("");
-  const { cart, setCart, onAdd } = useContext(CartContext);
+  const { cart, onAdd } = useContext(CartContext);
   const [stock, setStock] = useState(product.stock);
 
   useEffect(() => {
@@ -14,10 +14,10 @@ const ItemDetail = (product) => {
     if (cartIndex >= 0) {
       setStock(product.stock - cart.items[cartIndex].quantity);
     }
-  }, [cart.items]);
+  }, [cart.items, product.id, product.stock]);
 
   useEffect(() => {
-    if (stock == 0) {
+    if (stock === 0) {
       setStockClass("out-of-stock");
     }
   }, [stock]);

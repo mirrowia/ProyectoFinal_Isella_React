@@ -47,8 +47,6 @@ const getManga = async (id) => {
 const importMangas = () => {
   const db = getFirestore();
 
-  const mangasRef = collection(db, "mangas");
-
   fetch("../../sources/novedades.json")
     .then((response) => response.json())
     .then((json) => {

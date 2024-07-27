@@ -11,7 +11,7 @@ function ItemListContainer() {
 
   useEffect(() => {
     getMangas(params.category).then((data) => setList(data));
-  }, [, params.category]);
+  }, [params.category]);
 
   if (!list) return null;
 

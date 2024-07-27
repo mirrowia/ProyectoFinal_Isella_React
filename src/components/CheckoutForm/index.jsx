@@ -18,36 +18,48 @@ const CheckoutForm = () => {
   useEffect(() => {
     let tmp = 0;
     let tmpItems = 0;
-    cart.items.map((item) => {
+    cart.items.forEach(item => {
       tmp += item.quantity * item.price;
       tmpItems += item.quantity;
-      setTotalItems(tmpItems);
-      setTotal(tmp);
     });
+    setTotalItems(tmpItems);
+    setTotal(tmp);
   }, [cart.items]);
 
   useEffect(() => {
-    cart.nombre = name;
-  }, [name]);
+    setCart(cart=>({
+      ...cart,
+      nombre: name
+    }))
+  }, [name, setCart]);
 
   useEffect(() => {
-    cart.apellido = lastName;
-  }, [lastName]);
+    setCart(cart=>({
+      ...cart,
+      apellido: lastName
+    }))
+  }, [lastName, setCart]);
 
   useEffect(() => {
-    cart.email = email;
-  }, [email]);
+    setCart(cart=>({
+      ...cart,
+      email: email
+    }))
+  }, [email, setCart]);
 
   useEffect(() => {
-    cart.telefono = phone;
-  }, [phone]);
+    setCart(cart => ({
+      ...cart,
+      telefono: phone
+    }))
+  }, [phone, setCart]);
 
   const confirmation = () => {
     if (
-      cart.nombre != "" &&
-      cart.apellido != "" &&
-      cart.email != "" &&
-      cart.telefono != ""
+      cart.nombre !== "" &&
+      cart.apellido !== "" &&
+      cart.email !== "" &&
+      cart.telefono !== ""
     ) {
       let timerInterval;
       Swal.fire({
@@ -57,14 +69,14 @@ const CheckoutForm = () => {
         timerProgressBar: true,
         didOpen: () => {
           Swal.showLoading();
-          const b = Swal.getHtmlContainer().querySelector("b");
+          //const b = Swal.getHtmlContainer().querySelector("b");
         },
         willClose: () => {
           clearInterval(timerInterval);
         },
       }).then((result) => {
         if (result.dismiss === Swal.DismissReason.timer) {
-          cart.items.map((item) => {
+          cart.items.forEach(item => {
             let newStock = item.stock - item.quantity;
             updateStock(item.id, newStock);
           });

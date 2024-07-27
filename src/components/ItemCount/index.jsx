@@ -8,7 +8,7 @@ import Cart from "./Cart";
 
 function ItemCount({ product, onAdd, stock }) {
   const [order, setOrder] = useState(0);
-  const { cart, setCart } = useContext(CartContext);
+  const { cart } = useContext(CartContext);
 
   const add = (e) => {
     if (stock > order) {

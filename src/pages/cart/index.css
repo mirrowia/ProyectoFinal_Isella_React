@@ -36,7 +36,7 @@
   font-size: 1.7rem;
 }
 .product-cart-quantity {
-  justify-content: end;
+  justify-content: flex-end;
   display: flex;
   align-items: center;
   height: 100%;
@@ -55,7 +55,7 @@
 
 .product-cart-body-price {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   padding-right: 2rem;
   font-size: 1.7rem;
 }
@@ -80,7 +80,7 @@
 
 .cart-items-confirm {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 .cart-items-confirm a {
   color: black;

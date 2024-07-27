@@ -1,5 +1,3 @@
-import { getValue } from "@testing-library/user-event/dist/utils";
-
 const CheckoutInput = ({ inputName, inputId, inputType, setValue }) => {
   const getValue = (e) => {
     setValue(e.target.value);

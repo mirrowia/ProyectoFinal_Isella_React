@@ -1,5 +1,5 @@
 function Remove({ remove, order, stock }) {
-  if (order == 0) {
+  if (order === 0) {
     return <i className="bi bi-dash setGreyed" />;
   }
 

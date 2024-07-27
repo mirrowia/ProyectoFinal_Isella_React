@@ -1,5 +1,5 @@
 function Add({ add, order, stock }) {
-  if (order == stock) {
+  if (order === stock) {
     return <i className="bi bi-plus setGreyed" />;
   }
 
