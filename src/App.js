@@ -9,7 +9,7 @@ import { CartProvider } from "./context";
 function App() {
   return (
     <CartProvider>
-      <BrowserRouter>
+      <BrowserRouter basename={'/react_ecommerce/'}>
         <Routes>
           <Route path="/" element={<ItemListContainer />} />
           <Route path="/search/:string" element={<ItemListContainer />} />
