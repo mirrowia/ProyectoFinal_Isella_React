@@ -1,0 +1,942 @@
+[
+  {
+    "id": 1,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 1,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece01.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 2,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 2,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece02.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 3,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 3,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece03.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 4,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 4,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece04.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 5,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 5,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece05.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 6,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 6,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece06.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 7,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 7,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece07.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 8,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 8,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece08.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 9,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 9,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece09.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 10,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 10,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece10.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 11,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 11,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece11.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 12,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 12,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece12.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 13,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 13,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece13.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 14,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 14,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece14.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 15,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 15,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece15.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 16,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 16,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece16.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 17,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 17,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece17.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 18,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 18,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece18.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 19,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 19,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece19.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 20,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 20,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece20.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 21,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 21,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece21.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 22,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 22,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece22.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 23,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 23,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece23.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 24,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 24,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece24.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 25,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 25,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece25.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 26,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 26,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece26.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 27,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 27,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece27.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 28,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 28,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece28.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 29,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 29,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece29.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 30,
+    "title": "ONE PIECE",
+    "description": "One Piece relata las aventuras de Monkey D. Luffy, un joven que, inspirado en Shanks, un pirata que le salvó la vida, desea convertirse en el Rey de los Piratas y encontrar el tesoro conocido como One Piece, que pertenecía a Gol D. Roger. Antes de ser ejecutado, hace 24 años, este legendario pirata contó al mundo sobre la existencia de su tesoro. Esto dio inicio a lo que se conoce como 'la Gran era de los piratas': innumerables piratas se dispusieron a buscar ese tesoro, causando grandes problemas al Gobierno Mundial. Luffy iniciará sus aventuras, reclutando amigos y nakamas que lo ayuden a cumplir su sueño.Creado por Eiichiro Oda, comenzó su publicación el 19 de Julio de 1997 en la AVENTURAS Jump. Es el comic más vendido en el mundo, y también el más exitoso en la historia de Japón, rompiendo el record de Dragon Ball y otros tantos.",
+    "volume": 30,
+    "cover": "https://www.ivrea.com.ar/onepiece/onepiece30.jpg",
+    "price": 2000,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 80,
+    "title": "METAL GEAR",
+    "description": "¡Presentamos la versión comic de una de las mejores sagas de videojuegos de la historia! El genial Hideo Kojima hizo de METAL GEAR SOLID uno de los videojuegos más vendidos del mundo, iniciando una gran saga que cuenta con millones de seguidores, ¡Y Kris Opirsko y Ashley Wood lo convirtieron en un impresionante comic! Cuando Foxhound, un grupo de terroristas modificados genéticamente toma una base secreta en Alaska, el destino de Estados Unidos -y el resto del mundo- pende de un hilo. Solamente Solid Snake, un experto espía, puede impedirlo infiltrándose en la base para así evitar que se desate una nueva guerra. Pero lo que Solid no sabe es que Revolver Ocelot, Gray Fox, Liquid Snake y otros nefastos personajes de su pasado forman parte de ese grupo terrorista, capaz de cualquier cosa con tal de eliminarlo a él y al resto del mundo. ¡El primer videojuego de la saga tiene su espectacular adaptación al comic en esta serie que Ivrea publicará en dos TPBs idénticos a los originales norteamericanos!rimero de la etapa actual",
+    "volume": 1,
+    "cover": "https://www.ivrea.com.ar/metalgearsolid/metalgearsolid1.jpg",
+    "price": 2800,
+    "stock": 1,
+    "category": "COMICS NORTEAMERICANOS"
+  },
+  {
+    "id": 81,
+    "title": "METAL GEAR",
+    "description": "¡Presentamos la versión comic de una de las mejores sagas de videojuegos de la historia! El genial Hideo Kojima hizo de METAL GEAR SOLID uno de los videojuegos más vendidos del mundo, iniciando una gran saga que cuenta con millones de seguidores, ¡Y Kris Opirsko y Ashley Wood lo convirtieron en un impresionante comic! Cuando Foxhound, un grupo de terroristas modificados genéticamente toma una base secreta en Alaska, el destino de Estados Unidos -y el resto del mundo- pende de un hilo. Solamente Solid Snake, un experto espía, puede impedirlo infiltrándose en la base para así evitar que se desate una nueva guerra. Pero lo que Solid no sabe es que Revolver Ocelot, Gray Fox, Liquid Snake y otros nefastos personajes de su pasado forman parte de ese grupo terrorista, capaz de cualquier cosa con tal de eliminarlo a él y al resto del mundo. ¡El primer videojuego de la saga tiene su espectacular adaptación al comic en esta serie que Ivrea publicará en dos TPBs idénticos a los originales norteamericanos!rimero de la etapa actual",
+    "volume": 2,
+    "cover": "https://www.ivrea.com.ar/metalgearsolid/metalgearsolid2.jpg",
+    "price": 2800,
+    "stock": 0,
+    "category": "COMICS NORTEAMERICANOS"
+  },
+  {
+    "id": 82,
+    "title": "METAL GEAR: SONS OF LIBERTY",
+    "description": "¡Nueva saga en comic de una de las mejores sagas de videojuegos de la historia! El genial Hideo Kojima hizo de METAL GEAR SOLID uno de los videojuegos más vendidos del mundo, iniciando una gran saga que cuenta con millones de seguidores. Una de las instancias más exitosas, polémicas y entretenidas es Sons of Liberty, que revolucionó la PS2 y le dio una nueva vuelta de tuerca a la franquicia. ¡y Alex Garner y Ashley Wood lo convirtieron en un impresionante comic! Cuatro años después de que el héroe y antiguo miembro de FoxHound, Solid Snake salvara el día en la Isla Shadow Moses, una nueva organización terrorista conocida como Dead Cell saboteó la instalación de saneamiento medioambiental conocida como Big Shell y tomó al Presidente de los Estados Unidos como rehén. Ahora, le toca a Raiden, nuevo agente de FoxHound, aunar fuerzas con el misterioso militar conocido como Pliskin para rescatar al Presidente y detener a Dead Cell, ¡cuyo líder se dice que es nada menos que el mismísimo Solid Snake! Esta saga se edita en dos tomos iguales a los originales de IDW, y además de recopilar los capítulos #1-12, ¡incluiye también el mítico #0, con una historia corta escrita por Matt Fraction!",
+    "volume": 1,
+    "cover": "https://www.ivrea.com.ar/metalgearsolid/metalgearsolidsonsofliberty1.jpg",
+    "price": 2800,
+    "stock": 0,
+    "category": "COMICS NORTEAMERICANOS"
+  },
+  {
+    "id": 83,
+    "title": "METAL GEAR: SONS OF LIBERTY",
+    "description": "¡Nueva saga en comic de una de las mejores sagas de videojuegos de la historia! El genial Hideo Kojima hizo de METAL GEAR SOLID uno de los videojuegos más vendidos del mundo, iniciando una gran saga que cuenta con millones de seguidores. Una de las instancias más exitosas, polémicas y entretenidas es Sons of Liberty, que revolucionó la PS2 y le dio una nueva vuelta de tuerca a la franquicia. ¡y Alex Garner y Ashley Wood lo convirtieron en un impresionante comic! Cuatro años después de que el héroe y antiguo miembro de FoxHound, Solid Snake salvara el día en la Isla Shadow Moses, una nueva organización terrorista conocida como Dead Cell saboteó la instalación de saneamiento medioambiental conocida como Big Shell y tomó al Presidente de los Estados Unidos como rehén. Ahora, le toca a Raiden, nuevo agente de FoxHound, aunar fuerzas con el misterioso militar conocido como Pliskin para rescatar al Presidente y detener a Dead Cell, ¡cuyo líder se dice que es nada menos que el mismísimo Solid Snake! Esta saga se edita en dos tomos iguales a los originales de IDW, y además de recopilar los capítulos #1-12, ¡incluiye también el mítico #0, con una historia corta escrita por Matt Fraction!",
+    "volume": 2,
+    "cover": "https://www.ivrea.com.ar/metalgearsolid/metalgearsolidsonsofliberty2.jpg",
+    "price": 2800,
+    "stock": 1,
+    "category": "COMICS NORTEAMERICANOS"
+  },
+  {
+    "id": 84,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 1,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk01.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 85,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 2,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk02.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 86,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 3,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk03.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 87,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 4,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk04.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 88,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 5,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk05.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 89,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 6,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk06.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 90,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 7,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk07.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 91,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 8,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk08.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 92,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 9,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk09.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 93,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 10,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk10.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 94,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 11,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk11.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 95,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 12,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk12.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 96,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 13,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk13.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 97,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 14,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk14.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 98,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 15,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk15.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 99,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 16,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk16.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 100,
+    "title": "SLAM DUNK",
+    "description": "La obra más conocida del famosísimo Takehiko Inoue, narra la historia de Hanamichi Sakuragi, el típico quilombero de instituto japonés (clásico de los mangas de peleas de estudiantes) con el giro argumental de que quiere convertirse en jugador de básquetbol. La razón? No es amor al deporte, no... Es para levantarse una mina! Hanamichi tendrá tres grandes problemas para conquistar a la dulce y amable Haruko: su compañero de equipo y rival a muerte, el super-habilidoso Kaede Rukawa (del que ella está enamorada); el estrictísimo capitán del equipo (que por cierto es hermano de la mina en cuestión); y el problema más difícil de superar: su explosivo carácter.",
+    "volume": 17,
+    "cover": "https://www.ivrea.com.ar/slamdunk/slamdunk17.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "DEPORTES"
+  },
+  {
+    "id": 101,
+    "title": "GANTZ",
+    "description": "Tras morir atropellados por un subterráneo, Kurono y Kato aparecen de golpe en una rara habitación junto a otra gente. Todo es parte de un juego. Algo llamado Gantz los equipa con armas y rastreadores para ejecutar misiones de aniquilación de extraterrestres que viven de incógnito en Tokyo. Si no zafan de eso, van a morir posta... Gantz es una de las obras seinen más impactantes de los últimos años. Su mezcla de acción, violencia y trama adulta lo llevó a la cima del éxito en todo país donde fue publicado. La adaptación animada, si bien cuenta con sexo y violencia, apenas adapta las primeras historias (e inventa el final), perdiéndose de múltiples historias mucho más desarrolladas como las que cuenta esta versión (que actualmente sigue saliendo en el magazine para adultos Young Jump, de Shueisha)",
+    "volume": 1,
+    "cover": "https://www.ivrea.com.ar/gantz/gantz01.jpg",
+    "price": 4000,
+    "stock": 0,
+    "category": "ACCION"
+  },
+  {
+    "id": 102,
+    "title": "GANTZ",
+    "description": "Tras morir atropellados por un subterráneo, Kurono y Kato aparecen de golpe en una rara habitación junto a otra gente. Todo es parte de un juego. Algo llamado Gantz los equipa con armas y rastreadores para ejecutar misiones de aniquilación de extraterrestres que viven de incógnito en Tokyo. Si no zafan de eso, van a morir posta... Gantz es una de las obras seinen más impactantes de los últimos años. Su mezcla de acción, violencia y trama adulta lo llevó a la cima del éxito en todo país donde fue publicado. La adaptación animada, si bien cuenta con sexo y violencia, apenas adapta las primeras historias (e inventa el final), perdiéndose de múltiples historias mucho más desarrolladas como las que cuenta esta versión (que actualmente sigue saliendo en el magazine para adultos Young Jump, de Shueisha)",
+    "volume": 2,
+    "cover": "https://www.ivrea.com.ar/gantz/gantz02.jpg",
+    "price": 4000,
+    "stock": 10,
+    "category": "ACCION"
+  },
+  {
+    "id": 103,
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": 1,
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland01.jpg",
+    "price": 4000,
+    "stock": 6,
+    "category": "SUSPENSO"
+  },
+  {
+    "id": 104,
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": 2,
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland02.jpg",
+    "price": 4000,
+    "stock": 0,
+    "category": "SUSPENSO"
+  },
+  {
+    "id": 105,
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": 3,
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland03.jpg",
+    "price": 4000,
+    "stock": 2,
+    "category": "SUSPENSO"
+  },
+  {
+    "id": 106,
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": 4,
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland04.jpg",
+    "price": 4000,
+    "stock": 1,
+    "category": "SUSPENSO"
+  },
+  {
+    "id": 107,
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": 5,
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland05.jpg",
+    "price": 4000,
+    "stock": 3,
+    "category": "SUSPENSO"
+  },
+  {
+    "id": 108,
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": 6,
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland06.jpg",
+    "price": 4000,
+    "stock": 4,
+    "category": "SUSPENSO"
+  },
+  {
+    "id": 109,
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": 7,
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland07.jpg",
+    "price": 4000,
+    "stock": 5,
+    "category": "SUSPENSO"
+  },
+  {
+    "id": 110,
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": 8,
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland08.jpg",
+    "price": 4000,
+    "stock": 12,
+    "category": "SUSPENSO"
+  },
+  {
+    "id": 111,
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": 1,
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro01.jpg",
+    "price": 4900,
+    "stock": 0,
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": 112,
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": 2,
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro02.jpg",
+    "price": 4900,
+    "stock": 0,
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": 113,
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": 3,
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro03.jpg",
+    "price": 4900,
+    "stock": 0,
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": 114,
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": 4,
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro04.jpg",
+    "price": 4900,
+    "stock": 0,
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": 115,
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": 5,
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro05.jpg",
+    "price": 4900,
+    "stock": 0,
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": 116,
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": 6,
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro06.jpg",
+    "price": 4900,
+    "stock": 0,
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": 117,
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": 7,
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro07.jpg",
+    "price": 4900,
+    "stock": 0,
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": 118,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 1,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover01.jpg",
+    "price": 2200,
+    "stock": 0,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 119,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 2,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover02.jpg",
+    "price": 2200,
+    "stock": 1,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 120,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 3,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover03.jpg",
+    "price": 2200,
+    "stock": 0,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 121,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 4,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover04.jpg",
+    "price": 2200,
+    "stock": 3,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 122,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 5,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover05.jpg",
+    "price": 2200,
+    "stock": 3,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 123,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 6,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover06.jpg",
+    "price": 2200,
+    "stock": 5,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 124,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 7,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover07.jpg",
+    "price": 2200,
+    "stock": 3,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 125,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 8,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover08.jpg",
+    "price": 2200,
+    "stock": 8,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 126,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 9,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover09.jpg",
+    "price": 2200,
+    "stock": 3,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 127,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 10,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover10.jpg",
+    "price": 2200,
+    "stock": 4,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 128,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 11,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover11.jpg",
+    "price": 2200,
+    "stock": 0,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 129,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 12,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover12.jpg",
+    "price": 2200,
+    "stock": 0,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 130,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 13,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover13.jpg",
+    "price": 2200,
+    "stock": 0,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 131,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 14,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover14.jpg",
+    "price": 2200,
+    "stock": 0,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 132,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 15,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover15.jpg",
+    "price": 2200,
+    "stock": 6,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 133,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 16,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover16.jpg",
+    "price": 2200,
+    "stock": 5,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 134,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 17,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover17.jpg",
+    "price": 2200,
+    "stock": 6,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 135,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 18,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover18.jpg",
+    "price": 2200,
+    "stock": 7,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 136,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 19,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover19.jpg",
+    "price": 2200,
+    "stock": 5,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 137,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 20,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover20.jpg",
+    "price": 2200,
+    "stock": 5,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 138,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 21,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover21.jpg",
+    "price": 2200,
+    "stock": 7,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 139,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 22,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover22.jpg",
+    "price": 2200,
+    "stock": 8,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 140,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 23,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover23.jpg",
+    "price": 2200,
+    "stock": 8,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 141,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 24,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover24.jpg",
+    "price": 2200,
+    "stock": 8,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 142,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 25,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover25.jpg",
+    "price": 2200,
+    "stock": 10,
+    "category": "AVENTURAS"
+  },
+  {
+    "id": 143,
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": 26,
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover26.jpg",
+    "price": 2200,
+    "stock": 10,
+    "category": "AVENTURAS"
+  }
+]
