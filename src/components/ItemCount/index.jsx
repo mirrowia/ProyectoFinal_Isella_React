@@ -32,7 +32,7 @@ function ItemCount({ product, onAdd, stock }) {
     <div className="item-count-container" onClick={(e) => e.preventDefault()}>
       <div className="item-input-div">
         <Remove remove={remove} order={order} stock={stock} />
-        <Input stock={stock} setOrder={setOrder} order={order} />
+        <Input name={product.id} stock={stock} setOrder={setOrder} order={order} />
         <Add add={add} order={order} stock={stock} />
       </div>
       <Cart onAdd={() => onAdd(product, order)} order={order} />

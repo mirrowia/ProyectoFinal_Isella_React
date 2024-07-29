@@ -3,17 +3,21 @@ import Template from "../Template";
 import { ItemList } from "../../components/ItemList";
 import { useEffect, useState } from "react";
 import { getMangas } from "../../services/firebase";
-import { useParams } from "react-router-dom";
+import { useLocation, useParams } from "react-router-dom";
+
+function useQuery() {
+  return new URLSearchParams(useLocation().search);
+}
 
 function ItemListContainer() {
-  const [list, setList] = useState();
+  const [list, setList] = useState([]);
   const params = useParams();
+  const query = useQuery();
+  const search = query.get("search");
 
   useEffect(() => {
-    getMangas(params.category).then((data) => setList(data));
-  }, [params.category]);
-
-  if (!list) return null;
+    getMangas(params.category, search).then((data) => setList(data));
+  }, [params.category, search]);
 
   return (
     <Template>

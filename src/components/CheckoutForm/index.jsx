@@ -1,6 +1,5 @@
-import { useEffect } from "react";
-import { useState } from "react";
-import { useContext } from "react";
+import { useEffect, useState, useContext } from "react";
+import { useNavigate } from "react-router-dom"; 
 import { CartContext } from "../../context";
 import { CheckoutInput } from "./CheckoutInput";
 import { updateStock } from "../../services/firebase/mangas";
@@ -14,6 +13,8 @@ const CheckoutForm = () => {
   const [lastName, setLastName] = useState("");
   const [email, setEmail] = useState("");
   const [phone, setPhone] = useState("");
+
+  const navigate = useNavigate();
 
   useEffect(() => {
     let tmp = 0;
@@ -88,7 +89,7 @@ const CheckoutForm = () => {
             "Se le envio un correo con los detalles para realizar el pago",
             "success"
           ).then(function () {
-            window.location = "/";
+            navigate("/"); 
           });
         }
       });

@@ -68,9 +68,7 @@ function NavBar() {
                 <CartWidget />
               </Link>
               <div>
-                <a className="navbar-brand ms-3" href="/">
-                  Usuario
-                </a>
+              <NavLink to="/" className="navbar-brand ms-3">Usuario</NavLink>
               </div>
             </div>
           </div>

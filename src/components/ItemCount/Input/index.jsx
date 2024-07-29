@@ -1,6 +1,6 @@
 import { useEffect} from "react";
 
-function Input({ order, setOrder, stock }) {
+function Input({ name, order, setOrder, stock }) {
   const handleChange = (e) => {
     setOrder(e.target.value);
   };
@@ -13,11 +13,10 @@ function Input({ order, setOrder, stock }) {
 
   return (
     <input
-      id="itemQty"
-      type="text"
-      value={order}
-      onChange={handleChange}
-      readOnly="readonly"
+    name={name}
+    type="text"
+    value={order}
+    onChange={handleChange}
     />
   );
 }

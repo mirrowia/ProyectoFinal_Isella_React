@@ -6,6 +6,10 @@
     cursor: pointer;
 }
 
+#cart-div:hover{
+    font-weight:  500;
+}
+
 .notification-pop{
     position: absolute;
     top: 0;
@@ -13,8 +17,4 @@
     border-radius: 50%;
     width: 1.6rem;
     text-align: center;
-}
-
-.notification-pop:hover{
-    font-weight:  500;
 }

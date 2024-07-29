@@ -11,26 +11,34 @@ import {
   updateDoc,
 } from "firebase/firestore";
 
-const getMangas = async (category) => {
+const getMangas = async (category, search) => {
   const db = getFirestore();
   const mangasRef = collection(db, "mangas");
+  let q;
 
   if (category) {
     category = String(category).replace("-", " ");
-    const q = query(
+    q = query(
       mangasRef,
       where("category", "==", category),
       orderBy("category"),
       orderBy("title"),
       orderBy("volume")
     );
-    const querySnapshot = await getDocs(q);
-    return querySnapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
   } else {
-    const q = query(mangasRef, orderBy("title"), orderBy("volume"));
-    const querySnapshot = await getDocs(q);
-    return querySnapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
+    q = query(mangasRef, orderBy("title"), orderBy("volume"));
   }
+
+  const querySnapshot = await getDocs(q);
+  let mangas = querySnapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
+
+  if (search) {
+    mangas = mangas.filter((manga) =>
+      manga.title.toLowerCase().includes(search.toLowerCase())
+    );
+  }
+
+  return mangas;
 };
 
 const getManga = async (id) => {

@@ -3,40 +3,35 @@ import { createContext, useEffect, useState } from "react";
 const CartContext = createContext();
 
 const CartProvider = ({ children }) => {
-  const [cart, setCart] = useState({
-    nombre: "",
-    apellido: "",
-    email: "",
-    telefono: "",
-    items: [],
+  const [cart, setCart] = useState(() => {
+    const cart = {
+      nombre: "",
+      apellido: "",
+      email: "",
+      telefono: "",
+      items: [],
+    };
+    const storedCartItems = localStorage.getItem("cart");
+    return storedCartItems ? { ...cart, items: JSON.parse(storedCartItems) } : cart;
   });
+
+  useEffect(() => {
+    localStorage.setItem("cart", JSON.stringify(cart.items));
+  }, [cart]);
 
   const onAdd = (product, order) => {
     const cartIndex = cart.items.findIndex((item) => item.id === product.id);
+    const newCart = structuredClone(cart);
     if (cartIndex >= 0) {
-      const newCart = structuredClone(cart);
-      const newProduct = cart.items[cartIndex];
+      const newProduct = { ...cart.items[cartIndex] };
       newProduct.quantity += order;
       newCart.items[cartIndex] = newProduct;
-      setCart(newCart);
     } else {
-      const newCart = structuredClone(cart);
-      const newProduct = structuredClone(product);
-      newProduct.quantity = parseInt(order);
+      const newProduct = { ...product, quantity: parseInt(order, 10) };
       newCart.items = [...newCart.items, newProduct];
-      setCart(newCart);
     }
+    setCart(newCart);
   };
-
-  useEffect(() => {
-    if (cart.items.length !== 0) {
-      localStorage.setItem("cart", JSON.stringify(cart.items));
-    } else {
-      if (localStorage.getItem("cart"))
-        cart.items = JSON.parse(localStorage.getItem("cart"));
-      setCart(cart);
-    }
-  }, [cart]);
 
   return (
     <CartContext.Provider value={{ cart, setCart, onAdd }}>
